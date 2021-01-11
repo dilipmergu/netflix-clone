@@ -1,3 +1,6 @@
+####Access the URL: https://netflix-clone-6a5a3.web.app/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
